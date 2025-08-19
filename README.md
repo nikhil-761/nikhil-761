@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikhil Tomar</h1>
-<h3 align="center">B.Tech CSE (3rd Year) | Passionate about Coding, Problem Solving, AI & Open Source</h3>
+<h3 align="center">B.Tech CSE (3rd Year) | Passionate about Coding, Problem Solving & AI</h3>
 
 ---
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%7C+Coder+%7C+Learner;Exploring+Data+Science+and+Machine+Learning;Building+Future+with+AI+%26+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Coding+%7C+Problem+Solving+%7C+AI+%26+ML;Exploring+Data+Analytics+and+Web+Tech;Always+Learning+%26+Building+Cool+Projects)](https://git.io/typing-svg)
 
 ---
 
@@ -13,14 +13,14 @@
 - 🌱 Currently learning **Data Analytics, Machine Learning & Web Tech**  
 - 💻 Skills: **C, Python, SQL, DBMS, HTML, CSS**  
 - 🚀 Projects: C & Python mini projects, Database-driven apps, Web practice projects  
-- 🤖 Exploring **AI & ML Projects**  
+- 🤖 Exploring **Artificial Intelligence & ML Models**  
 - 📫 Connect: [LinkedIn](https://www.linkedin.com/in/nikhil-tomar-b6a119334)  
 
 ---
 
-<!-- AI GIF -->
+<!-- AI Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFjd2FuZ2o4NGZ1ODFwMWl2eDhrc3lxc2Z2d2Rtd2Q4MnpvZTF2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cIn5fTcjnKhStIeAef/giphy.gif" width="500" />
 </p>
 
 ---
@@ -48,15 +48,10 @@
 
 ---
 
-<!-- AI Neural Network GIF -->
+<!-- Futuristic AI Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3htZGVmcG1rdXdjNnp4Y2VoaTQ4eHJ1bWphZmNqY2U5cnIzajg1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" />
 </p>
-
----
-
-### 🐍 Contribution Graph Snake  
-![Snake animation](https://github.com/nikhil-761/nikhil-761/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
