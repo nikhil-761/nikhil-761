@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Data Analytics, Machine Learning & Web Tech**
 - 💻 Skills: **C, Python, SQL, DBMS**
 - 🚀 Projects: C & Python mini projects, Database-driven apps, Web practice projects
-- 📫 Connect: [LinkedIn](your-linkedin-url)  
+- 📫 Connect: [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/nikhil-tomar-b6a119334?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMPBsAju7T12aVl5dvdnFCQ%3D%3D))  
 
 ---
 
@@ -35,5 +35,5 @@
 
 ---
 
-### ⚡ Motto
+### ⚡
 **"Code. Learn. Build. Repeat."**
