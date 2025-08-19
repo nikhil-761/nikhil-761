@@ -14,7 +14,6 @@
 - 💻 Skills: **C, Python, SQL, DBMS, HTML, CSS**  
 - 🚀 Projects: C & Python mini projects, Database-driven apps, Web practice projects  
 - 🤖 Exploring **Artificial Intelligence & ML Models**  
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/nikhil-tomar-b6a119334)  
 
 ---
 
@@ -55,5 +54,20 @@
 
 ---
 
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhil-tomar-b6a119334" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nikhil-761" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:nikhiltomar761@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### ⚡ Quote  
-**"Code. Learn. Build. Repeat."**
+**“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson**  
