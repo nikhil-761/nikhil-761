@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Tomar</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%7C+Coder+%7C+Learner;Exploring+Data+Science+and+Machine+Learning;Building+Future+with+AI+%26+Code)](https://git.io/typing-svg)
+
 <h3 align="center">B.Tech CSE (3rd Year) | Passionate about Coding, Problem Solving & Open Source</h3>
 
 ---
