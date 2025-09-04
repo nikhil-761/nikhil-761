@@ -40,7 +40,8 @@
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil-761&show_icons=true&theme=tokyonight)  
 
 ### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=nikhil-761&theme=tokyonight&hide_border=true)  
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nikhil-761&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  
 
 ### 💻 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-761&layout=compact&theme=tokyonight)  
