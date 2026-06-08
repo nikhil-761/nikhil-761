@@ -36,15 +36,21 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil-761&show_icons=true&theme=tokyonight)  
+### 📊 GitHub Stats
 
-### 🔥 Streak Stats  
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nikhil-761&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nikhil-761&show_icons=true&theme=tokyonight)
 
-### 💻 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-761&layout=compact&theme=tokyonight)  
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikhil-761&theme=tokyonight&hide_border=true" />
+</p>
+
+
+### 💻 Top Languages
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhil-761&layout=compact&theme=tokyonight)
 
 ---
 
