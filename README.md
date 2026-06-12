@@ -1,80 +1,177 @@
+````md
 <h1 align="center">Hi 👋, I'm Nikhil Tomar</h1>
-<h3 align="center">B.Tech CSE (3rd Year) | Passionate about Coding, Problem Solving & AI</h3>
 
----
+<h3 align="center">
+🚀 B.Tech CSE Student | AI Enthusiast | Web Developer | UPSC Aspirant
+</h3>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Coding+%7C+Problem+Solving+%7C+AI+%26+ML;Exploring+Data+Analytics+and+Web+Tech;Always+Learning+%26+Building+Cool+Projects)](https://git.io/typing-svg)
-
----
-
-### 🌱 About Me  
-- 🎓 Pursuing **B.Tech CSE (3rd Year)**  
-- 🌱 Currently learning **Data Analytics, Machine Learning & Web Tech**  
-- 💻 Skills: **C, Python, SQL, DBMS, HTML, CSS**  
-- 🚀 Projects: C & Python mini projects, Database-driven apps, Web practice projects  
-- 🤖 Exploring **Artificial Intelligence & ML Models**  
-
----
-
-<!-- AI Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFjd2FuZ2o4NGZ1ODFwMWl2eDhrc3lxc2Z2d2Rtd2Q4MnpvZTF2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cIn5fTcjnKhStIeAef/giphy.gif" width="500" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+Student;AI+%7C+Web+Development+%7C+Programming;IIT+Roorkee+Intern;Always+Learning+and+Building!" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nikhil-761&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/nikhil-761?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/nikhil-761?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 ---
 
-### 🧰 Languages and Tools  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+# 🚀 About Me
+
+🎓 B.Tech Computer Science & Engineering Student
+
+💻 Passionate about Software Development, AI and Problem Solving
+
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- Java Development
+- Machine Learning
+- Full Stack Development
+
+🏆 Achievements:
+- IIT Roorkee Internship
+- IBM SkillBuild AI Fundamentals
+- GDG Event Participation
+- YBI Foundation Internship
+- Multiple Coursera Certifications
+
+⚡ Experience:
+- Python
+- Java
+- C Programming
+- MySQL
+- DBMS
+- HTML
+- CSS
+- Git & GitHub
+
+🎯 Goals:
+- Software Engineer
+- AI Developer
+- UPSC Aspirant
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nikhil-761&show_icons=true&theme=tokyonight)
-
-
-### 🔥 Streak Stats
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhil-761&theme=tokyonight&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
 </p>
-
-
-### 💻 Top Languages
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhil-761&layout=compact&theme=tokyonight)
 
 ---
 
-<!-- Futuristic AI Banner -->
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3htZGVmcG1rdXdjNnp4Y2VoaTQ4eHJ1bWphZmNqY2U5cnIzajg1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikhil-761&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-761&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-### 📫 Connect with Me  
+# 🔥 GitHub Streak
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikhil-tomar-b6a119334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nikhil-761" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:nikhiltomar761@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://streak-stats.demolab.com?user=nikhil-761&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### ⚡ Quote  
-**“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson**  
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nikhil-761&theme=tokyonight&row=1&column=7&no-frame=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil-761&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Government Scheme Assistant
+AI-powered chatbot for helping citizens find government schemes and scholarships.
+
+### 🌐 Web Development Projects
+Responsive websites using HTML, CSS and JavaScript.
+
+### 📊 Data Analytics Projects
+Data visualization and analysis using Python.
+
+### 💻 Java Programming Collection
+Core Java programs and problem-solving projects.
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ Data Structures
+✔ Java
+✔ Machine Learning
+✔ Git & GitHub
+✔ Web Development
+✔ Problem Solving
+````
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/nikhil-761">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/nikhil-tomar-b6a119334">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:nikhilnigt761@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> "Success is the sum of small efforts repeated day in and day out."
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
+```
